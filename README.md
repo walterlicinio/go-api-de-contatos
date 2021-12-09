@@ -1,4 +1,4 @@
-# go-api-de-contatos
+# API de Contatos em Go
 
 Este repositório é uma API simplificada em Go, desenvolvido por Walter Licínio S. B. Filho, sob mentoria de Aníbal Vilela, como material didático para o Plano de Desenvolvimento Individual na Vaivoa.
 
